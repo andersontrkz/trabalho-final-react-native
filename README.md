@@ -1,4 +1,12 @@
-# Welcome to your Expo app 👋
+# MUDE.me 👋
+Your motivational machine, or not!
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e35d174a-78de-406c-8308-c24b22f46f47" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f7318d57-0704-4275-8622-9f5926c2980a" width="45%" />
+</p>
+
+## About
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
